@@ -16,9 +16,9 @@ int main()
     else if(a==5)
         cout<<"   FRIDAY     "<<endl;
     else if(a==6)
-        cout<<"   SATURDAY   "<<endl
+        cout<<"   SATURDAY   "<<endl;
     else if(a==7)
-        cout<<"    SUNDAY    "<<endl
-    return 0
+        cout<<"    SUNDAY    "<<endl;
+    return 0;
 }
 
