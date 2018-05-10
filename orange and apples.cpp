@@ -24,7 +24,7 @@ int main()
         sumorange=sumorange+1;
        }
 cout<<sum<<endl;
-   cout<<sum<<endl;
+   cout<<sumorange<<endl;
 
     return 0;
 }
