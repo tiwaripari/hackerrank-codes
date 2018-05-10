@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int arr[]={0},brr[]={0},a,b,s,t,m,n,sum=0,sumorange=0;
+    int arr[10000]={0},brr[10000]={0},a,b,s,t,m,n,sum=0,sumorange=0;
     cin>>s>>t;
     cin>>a>>b;
     cin>>m>>n;
@@ -23,7 +23,8 @@ int main()
 
         sumorange=sumorange+1;
        }
-cout<<sum<<" "<<sumorange<<endl;
+cout<<sum<<endl;
+   cout<<sum<<endl;
 
     return 0;
 }
