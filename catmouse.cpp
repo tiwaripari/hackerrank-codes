@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int x,y,z,n,d1[100]={},d2[100]{};
+    int x,y,z,n,d1[100]={},d2[100]={};
     cin>>n;
     for(int i=0;i<n;i++)
     {
